@@ -1,0 +1,708 @@
+/*Paramètres en-tête*/
+
+header p  /* Update Octobre */
+{
+    display: flex;
+    font-size: 2.15em;
+    margin-top: 0px;
+    width: 100%;
+    background: #3D3D3D;
+    font-family: Impact, Arial, Verdana;
+    font-weight: bold;
+    color: #161F30;
+    text-shadow: 1px 0 1px #84B026, -1px 0 1px #217373;
+
+    position: fixed;
+    transition: all 300ms ease-out;  /* Update Octobre */
+
+    z-index: 4;
+}
+
+.anim_header  /* Update Octobre */
+{
+    width: 6%;
+    color: #000;
+    background: transparent;
+    text-shadow: #FFF 1px 1px 0px;
+}
+
+
+/*Paramètres de fond*/
+
+body
+{
+   margin: 0px;
+   padding: 0px;
+   background: #161F30;
+   transition: all 700ms ease-in-out; /* Update Octobre */
+}
+
+.anim_body  /* Update Octobre */
+{
+    background: #000;
+}
+
+#A_couteaux_tires
+{  
+    background-image: url(images/À_couteaux_tirés/À_couteaux_tirés_background.jpeg);
+}
+
+#Gone_Girl
+{  
+    background-image: url(images/Gone_Girl/Gone_Girl_background.jpeg);
+}
+
+#BulletTrain
+{  
+    background-image: url(images/Bullet_Train/bullet_train_background.jpeg);
+}
+
+
+#Last_Night_In_Soho
+{  
+    background-image: url(images/Last_Night_In_Soho/Last_Night_In_Soho_Background.jpeg);
+}
+
+#Désigné_Coupable
+{
+    background-image: url(images/Désigné_Coupable/Désigné_Coupable_Background.jpeg);
+}
+
+#Sans_Un_Bruit
+{
+    background-image: url(images/Sans_Un_Bruit/Sans_Un_Bruit_Background.jpeg);
+}
+
+#Free_Guy
+{
+    background-image: url(images/Free_Guy/Free_Guy_Background.jpeg);
+}
+
+#film1917
+{
+    background-image: url(images/1917/1917_Background.jpeg);
+}
+
+#Once_upon_a_time_in_Hollywood
+{
+    background-image: url(images/Once_upon_a_time_in_Hollywood/Once_upon_a_time_in_Hollywood_background.jpeg);
+}
+
+#Le_diable_tout_le_temps
+{
+    background-image: url(images/Le_diable_tout_le_temps/Le_diable_tout_le_temps_background.jpeg);
+}
+
+#célibataire_mode_d_emploi
+{
+    background-image: url(images/célibataire_mode_d_emploi/célibataire_mode_d_emploi_background.jpeg);
+}
+
+#Bac_Nord
+{
+    background-image: url(images/Bac_Nord/Bac_Nord_background.jpeg);
+}
+
+#Invincible
+{
+    background-image: url(images/Invincible/Invincible_background.jpeg);
+}
+
+#Uncharted
+{
+    background-image: url(images/Uncharted/Uncharted_backrground.jpeg);
+}
+
+#Into_The_Wild
+{
+    background-image: url(images/Into_The_Wild/Into_The_Wild_background.jpeg);
+}
+
+#Joker
+{
+    background-image: url(images/Joker/Joker_background.jpeg);
+}
+
+#Eiffel
+{
+    background-image: url(images/Eiffel/Eiffel_background.jpeg);
+}
+
+#I_Feel_Pretty
+{
+    background-image: url(images/I_Feel_Pretty/I_Feel_Pretty_background.jpeg);
+}
+
+#BlacKkKlansman
+{
+    background-image: url(images/BlacKkKlansman/BlacKkKlansman_background.jpeg);
+}
+
+#Mudbound
+{
+    background-image: url(images/Mudbound/Mudbound_background.jpeg);
+}
+
+#Interstellar
+{
+    background-image: url(images/Interstellar/Interstellar_background.jpeg);
+}
+
+#Everything_Everywhere_All_at_Once
+{
+    background-image: url(images/Everything_Everywhere_All_at_Once/Everything_Everywhere_All_at_Once_background.jpeg);
+}
+
+#Lion
+{
+    background-image: url(images/Lion/Lion_background.jpeg);
+}
+
+#Call_Me_by_Your_Name
+{
+    background-image: url(images/Call_Me_by_Your_Name/Call_Me_by_Your_Name_background.jpeg);
+}
+
+
+/*Paramètres d'introduction*/
+
+#titre_intro
+{
+    margin-top: 90px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: bebasregular, Impact; 
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+#intro
+{
+    width: 80%;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 0;
+    font-family: Times, "Times New Roman", serif;
+    font-size: 1.2em;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+/*Paramètres FLEX*/
+
+#cartes
+{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: space-around;   
+    align-items: center;
+    width: 80%;
+    padding-top: 50px;
+}
+
+section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+}
+
+/*Paramètres des cartes*/
+
+
+
+span h1 /* NEW */
+{
+    padding-top: 8px;
+    padding-left: 8px;
+    margin: 0;
+    color: #FFFFFF;
+    text-align: left;
+    text-shadow: 1px 0 1px #84B026, -1px 0 1px #217373;
+    font-family: Impact, bebasregular;
+    font-weight: bold;
+}
+
+article
+{
+    padding-left: 8px;
+    color: #FFFFFF;
+    text-align: left;
+    width: 90%;
+}
+
+img
+{
+    height: 300px;
+    width: 230px;
+    border-radius: 10px;
+}
+
+section
+{
+    margin-bottom: 90px;
+    height: 500px;
+    width: 900px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    box-shadow: 1px 1px 8px #FFFFFF, -1px -1px 8px #FFFFFF, 10px 10px 15px #217373, -10px -10px 15px #217373;
+}
+
+section:hover
+{
+    box-shadow: 2px 2px 20px #FFFFFF, -2px -2px 20px #FFFFFF, 15px 15px 34px #217373, -15px -15px 34px #217373;
+}
+
+
+aside
+{
+    width: 20%;
+    height: 30%;
+    margin-left: 85%;
+    margin-top: 0;
+    margin-bottom: 10%;
+}
+
+article p /* NEW */
+{
+    margin-bottom: 0;
+    padding-bottom: 8px;
+    margin-top: 0;
+    padding-top: 0;
+
+    font-family: balooregular, Georgia;
+    font-size: 0.8em;
+    text-shadow: 2px 2px 12px #000000, 2px -2px 12px #000000;
+}
+
+article h1 /* NEW */
+{
+    margin-bottom: 0;
+    padding-bottom: 4px;
+    margin-top: 0;
+    padding-top: 0;
+
+    font-family: balooregular, Georgia;
+    font-size: 1em;
+}
+
+span p
+{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 0.7em;
+    border-top: 0;
+    margin-top: 0;
+    margin-left: 8px;
+    text-shadow: 0.5px 0.5px 10px #000000, 0.5px -0.5px 10px #000000;
+}
+
+#prime
+{
+    color: #139ADE;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1em;
+    border-top: 0;
+    margin-top: 0;
+    margin-left: 6px;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    text-decoration: none;
+}
+
+#Netflix
+{
+    color: #E50A13;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1em;
+    border-top: 0;
+    margin-top: 0;
+    margin-left: 6px;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+}
+
+
+/*Paramètres de pied de page*/
+
+footer
+{
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-top: double 3px #FFFFFF;
+    font-size: 0.8em;
+    font-family: balooregular, Georgia;
+    font-weight: bold;
+
+    color: #3D3D3D;
+    text-align: center;
+    text-shadow: 0.5px 0 0.5px #000, -0.5px 0 0.5px #000;
+}
+
+#footer
+{
+    margin-bottom: 0;
+    padding-bottom: 8px;
+    padding-top: 0px;
+}
+
+/* Mise en place d'une police personnalisée */
+
+@font-face {
+    font-family: 'bebasregular';
+    src: url('Bebas-Regular-webfont.eot');
+    src: url('Bebas-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bebas-Regular-webfont.woff2') format('woff2'),
+         url('Bebas-Regular-webfont.woff') format('woff'),
+         url('Bebas-Regular-webfont.ttf') format('truetype'),
+         url('Bebas-Regular-webfont.svg#bebasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'balooregular';
+    src: url('Baloo-Regular-webfont.eot');
+    src: url('Baloo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Baloo-Regular-webfont.woff2') format('woff2'),
+         url('Baloo-Regular-webfont.woff') format('woff'),
+         url('Baloo-Regular-webfont.ttf') format('truetype'),
+         url('Baloo-Regular-webfont.svg#balooregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+/* Media Queries settings */
+/* Media Queries settings */
+
+
+@media all and (min-width: 1540px)  /* Media Queries settings (1540px and beyond) */
+{
+    #HAAA   /* Update Octobre */
+    {
+        font-size: 2.5em;
+    }
+
+    #intro
+    {
+        font-size: 1.4em;
+    }
+
+    section
+    {
+        height: 600px;
+        width: 1100px;
+    }
+
+    img
+    {
+        height: 350px;
+        width: 270px;
+    }
+
+    #titre_intro
+    {
+        font-size: 2.7em;
+    }
+
+
+    span h1 /* NEW */
+    {
+        
+        font-size: 1.8em;
+    }
+
+    article p /* NEW */
+    {
+
+        font-size: 1em;
+    }
+
+    article h1 /* NEW */
+    {
+        font-size: 1.1em;
+    }
+
+    span p
+    {
+        font-size: 0.9em;
+    }
+
+    #Netflix, #prime
+    {
+        font-size: 1em;
+    }
+}
+
+
+@media all and (max-width: 1024px)  /* Media Queries settings (up to 1024px) */
+{
+    #HAAA  /* Update Octobre */
+    {
+        font-size: 1.8em;
+    }
+
+    #titre_intro
+    {
+        margin-top: 55px;
+    }
+
+    section
+    {
+        height: 400px;
+        width: 700px;
+    }
+
+    article p /* NEW */
+    {
+        font-size: 0.7em;
+        margin-top: 20px;
+    }
+
+    article h1 /* NEW */
+    {
+        display: none;
+    }
+
+    img
+    {
+        height: 230px;
+        width: 170px;
+    }
+
+    section
+    {
+        justify-content: space-between;
+    }
+
+    article
+    {
+        margin-bottom: 0;
+        overflow: auto;
+    }
+
+    span p
+    {
+        margin-bottom: 20px;
+        font-size: 0.7em;
+    }
+
+    #cartes
+    {
+        margin-left: 60px;
+    }
+
+    #Netflix, #prime
+    {
+        font-size: 0.9em;
+    }
+}
+
+
+@media all and (max-width: 850px)  /* Media Queries settings (up to 1024px) */
+{
+    #HAAA   /* Update Octobre */
+    {
+        font-size: 1.6em;
+    }
+
+    #intro
+    {
+        font-size: 1em;
+    }
+
+    #titre_intro
+    {
+        margin-top: 55px;
+        font-size: 2.2em;
+    }
+
+    article p /* NEW */
+    {
+        display: none;
+    }
+    
+    span p
+    {
+        display: none;
+    }
+
+    #Netflix, #prime
+    {
+        display: none;
+    }
+
+    span h1 /* NEW */
+    {   
+        display: none;
+    }
+
+    aside
+    {   
+        display: none;
+    }
+
+    section
+    {
+        height: 540px;
+        width: 380px;
+    }
+
+    #cartes
+    {   
+        margin: auto;
+        width: 100%;
+    }
+
+    footer
+    {
+        margin-top: 0px;
+    }
+/* Update Octobre */
+    .anim_header
+    {   
+        width: 100%;
+        color: #000;
+        background: #282828;
+        text-shadow: #FFF 0.8px 0.8px 0px;
+    }
+
+
+
+    #A_couteaux_tires
+    {  
+        background-image: url(images/À_couteaux_tirés/À_couteaux_tirés.jpeg);
+    }
+
+    #Gone_Girl
+    {  
+        background-image: url(images/Gone_Girl/Gone_Girl.jpeg);
+    }
+
+    #BulletTrain
+    {  
+        background-image: url(images/Bullet_Train/Bullet_train.jpeg);
+    }
+
+
+    #Last_Night_In_Soho
+    {  
+        background-image: url(images/Last_Night_In_Soho/Last_Night_In_Soho.jpeg);
+    }
+
+    #Désigné_Coupable
+    {
+        background-image: url(images/Désigné_Coupable/Désigné_Coupable.jpeg);
+    }
+
+    #Sans_Un_Bruit
+    {
+        background-image: url(images/Sans_Un_Bruit/Sans_Un_Bruit.jpeg);
+    }
+
+    #Free_Guy
+    {
+        background-image: url(images/Free_Guy/Free_Guy.jpeg);
+    }
+
+    #film1917
+    {
+        background-image: url(images/1917/1917.jpeg);
+    }
+
+    #Once_upon_a_time_in_Hollywood
+    {
+        background-image: url(images/Once_upon_a_time_in_Hollywood/Once_upon_a_time_in_Hollywood.jpg);
+    }
+
+    #Le_diable_tout_le_temps
+    {
+        background-image: url(images/Le_diable_tout_le_temps/Le_diable_tout_le_temps.jpeg);
+    }
+
+    #célibataire_mode_d_emploi
+    {
+        background-image: url(images/célibataire_mode_d_emploi/célibataire_mode_d_emploi.jpeg);
+    }
+
+    #Bac_Nord
+    {
+        background-image: url(images/Bac_Nord/Bac_Nord.jpeg);
+    }
+
+    #Invincible
+    {
+        background-image: url(images/Invincible/Invincible.jpeg);
+    }
+
+    #Uncharted
+    {
+        background-image: url(images/Uncharted/Uncharted.jpeg);
+    }
+
+    #Into_The_Wild
+    {
+        background-image: url(images/Into_The_Wild/Into_The_Wild.jpeg);
+    }
+
+    #Joker
+    {
+        background-image: url(images/Joker/Joker.jpeg);
+    }
+
+    #Eiffel
+    {
+        background-image: url(images/Eiffel/Eiffel.jpeg);
+    }
+
+    #I_Feel_Pretty
+    {
+        background-image: url(images/I_Feel_Pretty/I_Feel_Pretty.jpeg);
+    }
+
+    #BlacKkKlansman
+    {
+        background-image: url(images/BlacKkKlansman/BlacKkKlansman.jpeg);
+    }
+
+    #Mudbound
+    {
+        background-image: url(images/Mudbound/Mudbound.jpeg);
+    }
+
+    #Interstellar
+    {
+        background-image: url(images/Interstellar/Interstellar.jpeg);
+    }
+
+    #Everything_Everywhere_All_at_Once
+    {
+        background-image: url(images/Everything_Everywhere_All_at_Once/Everything_Everywhere_All_at_Once.jpeg);
+    }
+
+    #Lion
+    {
+        background-image: url(images/Lion/Lion.jpeg);
+    }
+
+    #Call_Me_by_Your_Name
+    {
+        background-image: url(images/Call_Me_by_Your_Name/Call_Me_by_Your_Name.jpeg);
+    }
+}
