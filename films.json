@@ -1,8 +1,7 @@
 [
     {
         "id": 1,
-        "mobile": "A_couteaux_tires",
-        "background": "url(images/À_couteaux_tirés/À_couteaux_tirés_background.jpeg)",
+        "background": "url(images/À_couteaux_tirés/À_couteaux_tirés_background.jpeg) id='A_couteaux_tires'",
         "title": "À COUTEAUX TIRÉS",
         "type": "Policier, Comédie / 2019 <a id='prime' href='https://www.primevideo.com/detail/0J82JH44RB2563KFICAXJFGPGO/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0851LCB31&qid=1664013535927' target='_blank'>Prime Vidéo</a> (non inclus)</p>",
         "poster": "images/À_couteaux_tirés/À_couteaux_tirés.jpeg",
@@ -10,8 +9,7 @@
     },
     {
         "id": 2,
-        "mobile": "Gone_Girl",
-        "background": "url(images/Gone_Girl/Gone_Girl_background.jpeg)",
+        "background": "url(images/Gone_Girl/Gone_Girl_background.jpeg) id='Gone_Girl'",
         "title": "GONE GIRL",
         "type": "Thriller / 2014 <a id='prime' href='https://www.primevideo.com/detail/0H7LQOJFJ8MVKMMIEKDCECRTN1/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B083ZLKKK2&qid=1662140970' target='_blank'>Prime Vidéo</a> (inclus)</p>",
         "poster": "images/Gone_Girl/Gone_Girl.jpeg",
