@@ -3,14 +3,14 @@
         "id": 1,
         "title": "À COUTEAUX TIRÉS",
         "type": "Policier, Comédie / 2019 <a id='prime' href='https://www.primevideo.com/detail/0J82JH44RB2563KFICAXJFGPGO/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0851LCB31&qid=1664013535927' target='_blank'>Prime Vidéo</a> (non inclus)</p>",
-        "poster": "<img src='images/À_couteaux_tirés/À_couteaux_tirés.jpeg' alt='À couteaux tirés'>",
+        "poster": "images/À_couteaux_tirés/À_couteaux_tirés.jpeg",
         "synopsis": "Célèbre auteur de polars, Harlan Thrombey est retrouvé mort dans sa somptueuse propriété, le soir de ses 85 ans. L’esprit affûté et la mine débonnaire,le détective Benoit Blanc est alors engagé par un commanditaire anonyme afin d’élucider l’affaire. Mais entre la famille d’Harlan qui s'entre-déchire et son personnel qui lui reste dévoué, Blanc plonge dans les méandres d’une enquête mouvementée, mêlant mensonges et fausses pistes, où les rebondissements s'enchaînent à un rythme effréné jusqu'à la toute dernière minute."
     },
     {
         "id": 2,
         "title": "GONE GIRL",
         "type": "Thriller / 2014 <a id='prime' href='https://www.primevideo.com/detail/0H7LQOJFJ8MVKMMIEKDCECRTN1/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B083ZLKKK2&qid=1662140970' target='_blank'>Prime Vidéo</a> (inclus)</p>",
-        "poster": "<img src='images/Gone_Girl/Gone_Girl.jpeg' alt='Gone Girl'>",
+        "poster": "images/Gone_Girl/Gone_Girl.jpeg",
         "synopsis": "À l’occasion de son cinquième anniversaire de mariage, Nick Dunne signale la disparition de sa femme, Amy. Sous la pression de la police et l’affolement des médias, l’image du couple modèle commence à s’effriter. Très vite, les mensonges de Nick et son étrange comportement amènent tout le monde à se poser la même question : a-t-il tué sa femme ?"
     }
 ]
