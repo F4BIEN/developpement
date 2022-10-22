@@ -12,5 +12,12 @@
         "type": "Thriller / 2014 <a id='prime' href='https://www.primevideo.com/detail/0H7LQOJFJ8MVKMMIEKDCECRTN1/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B083ZLKKK2&qid=1662140970' target='_blank'>Prime Vidéo</a> (inclus)</p>",
         "poster": "images/Gone_Girl/Gone_Girl.jpeg",
         "synopsis": "À l’occasion de son cinquième anniversaire de mariage, Nick Dunne signale la disparition de sa femme, Amy. Sous la pression de la police et l’affolement des médias, l’image du couple modèle commence à s’effriter. Très vite, les mensonges de Nick et son étrange comportement amènent tout le monde à se poser la même question : a-t-il tué sa femme ?"
+    },
+    {
+        "title": "BULLET TRAIN",
+        "background": "url('images/Bullet_Train/bullet_train_background.jpeg')",
+        "type": "Action / 2022",
+        "poster": "images/Bullet_Train/Bullet_train.jpeg",
+        "synopsis": "Coccinelle est un assassin malchanceux <br />et particulièrement déterminé à accomplir sa nouvelle mission <br/>paisiblement après que trop d'entre elles aient déraillé. Mais le destin en a décidé autrement <br />et l'embarque dans le train le plus rapide au monde aux côtés d'adversaires redoutables qui ont tous un point commun, <br />mais dont les intérêts divergent radicalement... Il doit alors tenter par tous les moyens de descendre du train.</p>"
     }
 ]
