@@ -1,5 +1,12 @@
 [
     {
+        "title": "DON'T WORRY DARLING",
+        "background": "url('images/Dont_Worry_Darling/Dont_Worry_Darling_background.jpg')",
+        "type": "Thriller / 2022",
+        "poster": "images/Dont_Worry_Darling/Dont_Worry_Darling.jpg",
+        "synopsis": "<p>Une femme au foyer des années 1950 vivant avec son mari dans une communauté expérimentale utopique commence à s'inquiéter du fait que son entreprise glamour cache des secrets troublants.</p>"
+    },
+    {
         "title": "À COUTEAUX TIRÉS",
         "background": "url('images/A_couteaux_tires/A_couteaux_tires_background.jpeg')",
         "type": "Policier, Comédie / 2019 <a id='prime' href='https://www.primevideo.com/detail/0J82JH44RB2563KFICAXJFGPGO/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0851LCB31&qid=1664013535927' target='_blank'>Prime Vidéo</a> (non inclus)",
