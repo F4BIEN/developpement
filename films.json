@@ -121,7 +121,7 @@
     {
         "title": "JOKER",
         "background": "url('images/Joker/Joker_background.jpg')",
-        "type": "Action / 2019 <a id='prime' href='https://www.primevideo.com/detail/0GMB11EJPS2AO890FSOYYGKMB9/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B08D7WGXJG&qid=1662235692' target='_blank'>Prime Vidéo</a> (non inclus)",
+        "type": "Action / 2019 <a id=Netflix href=https://www.netflix.com/search?q=joker&jbv=81092221 target=_blank>Netflix</a> &<a id='prime' href='https://www.primevideo.com/detail/0GMB11EJPS2AO890FSOYYGKMB9/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B08D7WGXJG&qid=1662235692' target='_blank'>Prime Vidéo</a> (non inclus)",
         "poster": "images/Joker/Joker.jpg",
         "synopsis": "<p>Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l'ennemi juré de Batman. Il brosse le portrait d'Arthur Fleck, un homme sans concession méprisé par la société.</p>"
     },
