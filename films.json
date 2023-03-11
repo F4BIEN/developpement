@@ -1,5 +1,12 @@
 [
     {
+        "title": "THE IRISHMAN",
+        "background": "url('images/The_Irishman/The_Irishman_backrground.jpg')",
+        "type": " Thriller, Drame / 2021",
+        "poster": "images/The_Irishman/The_Irishman.jpg",
+        "synopsis": "<p>Cette saga sur le crime organisé dans l'Amérique de l'après-guerre est racontée du point de vue de Frank Sheeran, un ancien soldat de la Seconde Guerre mondiale devenu escroc et tueur à gages ayant travaillé aux côtés de quelques-unes des plus grandes figures du 20e siècle. Couvrant plusieurs décennies, le film relate l'un des mystères insondables de l'histoire des États-Unis : la disparition du légendaire dirigeant syndicaliste Jimmy Hoffa. Il offre également une plongée monumentale dans les arcanes de la mafia en révélant ses rouages, ses luttes internes et ses liens avec le monde politique.</p>"
+    },
+    {
         "title": "BLACK PANTHER: WAKANDA FOREVER",
         "background": "url('images/Black_panther_2/Black_panther_background.jpg')",
         "type": " Action, Aventure / 2022",
